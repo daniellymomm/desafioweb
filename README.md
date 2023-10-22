@@ -1,6 +1,13 @@
 # desafioweb
  Desafio web 3.0 em React - criado para Stack
 
- http://localhost:5173/
+![Screenshot 2023-10-15 201414](https://github.com/daniellymomm/desafioweb/assets/99624114/f6f646ec-ff20-4c8c-85ef-80c99f436b58)
 
-![Screenshot 2023-10-15 201414](https://github.com/daniellymomm/desafioweb/assets/99624114/57a7d299-4625-49ac-acb1-4a2d25d279e9)
+Desafio em que desenvolvi Lading Page Simples e utilizei React use Styled Components 
+
+Ferramentas Utilizadas
+• JAVASCRIPT
+• HTML5
+• CSS 
+• React + Styled Components
+• Visual Studio Code
